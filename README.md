@@ -1,10 +1,12 @@
+![apigreenscore_logo](https://github.com/ytremblais/APIGreenScore/assets/13643712/58127821-e390-4922-bb96-ab6bfff12c43)
+
 # API Green Score
 
 ## project
 
-The API Green Score is a toolkit to help API users, designers and owners to ask themselves questions about the digital impact of their API
+The API Green Score is a toolkit to help API consumers, designers and owners to ask themselves questions about the digital impact of their API.
 
-This tool is based on 7 different domains in order to create relevant and realistic metrics that stakeholders can use.
+This tool is based on 7 differents domains in order to create relevant and realistic metrics that stakeholders can use.
 
 The evaluation method is shared with all API Persona (API owners, API consumers, API developers)
 
@@ -94,10 +96,10 @@ Feel free to read the contributor's guide.[the contributor's guide](CONTRIBUTING
 
 To simplify your search, don't forget to use the available filters on the discussions page.
 
-  - :infinity: [List of all discussions](https://github.com/GroupeRocher/APIGreenScore/discussions)
-  - :heavy_plus_sign: [List of discussions for adding rules](https://github.com/GroupeRocher/APIGreenScore/discussions?discussions_q=label%3Aaddition)
-  - :memo: [List of discussions for modifying rules](https://github.com/GroupeRocher/APIGreenScore/discussions?discussions_q=label%3Amodification)
-  - :heavy_multiplication_x: [List of discussions for deleting rules](https://github.com/GroupeRocher/APIGreenScore/discussions?discussions_q=label%3Adeletion)
+  - :infinity: [List of all discussions](https://github.com/ytremblais/APIGreenScore/discussions)
+  - :heavy_plus_sign: [List of discussions for adding rules](https://github.com/ytremblais/APIGreenScore/discussions?discussions_q=label%3Aaddition)
+  - :memo: [List of discussions for modifying rules](https://github.com/ytremblais/APIGreenScore/discussions?discussions_q=label%3Amodification)
+  - :heavy_multiplication_x: [List of discussions for deleting rules](https://github.com/ytremblais/APIGreenScore/discussions?discussions_q=label%3Adeletion)
 
 
 
