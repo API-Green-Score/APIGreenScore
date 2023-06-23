@@ -47,7 +47,7 @@ A member of the project team can submit a proposal to the contributors but canno
 
 ## Proposal
 
-Every proposal for adding, major modification, or deletion of best practices must go through [a discussion](https://github.com/groupe-rocher/GreenIT/API_Green_Score/discussions/categories/bonnes-pratiques).
+Every proposal for adding, major modification, or deletion of best practices must go through [a discussion](https://github.com/ytremblais/APIGreenScore/discussions/categories/bonnes-pratiques).
 
 The title of the discussion should be explicit and specify whether it is an addition, a major modification, or a deletion.
 
@@ -73,7 +73,7 @@ The following scenarios may occur:
 - The proposal is definitively rejected with justification.
 - The proposal needs to be reworked before a final decision is made
 
-The created `Issue` should include the tag `create`, `modify`, or `delete` depending on the type of proposal and should be linked to the [`Best Pratices project`](https://github.com/groupe-rocher/GreenIT/API_Green_Score/projects/1).
+The created `Issue` should include the tag `create`, `modify`, or `delete` depending on the type of proposal and should be linked to the [`Best Pratices project`](https://github.com/ytremblais/APIGreenScore/projects/1).
 
 For additions, the file should be named following the pattern: `YYxx-en.md`, where ̀`YY` means category an `xx` is the number assigned to the rules by the project team.
 
