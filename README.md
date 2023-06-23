@@ -1,5 +1,5 @@
 ![apigreenscore_logo](https://github.com/ytremblais/APIGreenScore/assets/13643712/58127821-e390-4922-bb96-ab6bfff12c43)
-
+=============================
 # API Green Score
 
 ## project
@@ -11,13 +11,20 @@ This tool is based on 7 differents domains in order to create relevant and reali
 The evaluation method is shared with all API Persona (API owners, API consumers, API developers)
 
 We are talking about rules for the API Green Score Grid, but first, it's based on Best Practices. 
+**Warning**: this is still a very early stage project. Any feedback or contribution will be highly appreciated. Please
+refer to the contribution section.
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/green-code-initiative/ecoCode-common/blob/main/doc/CODE_OF_CONDUCT.md)
+
+--------------------
 
 This toolkit consists of an evaluation grid and evaluation rules.
 
 But before using evaluation grid a short word about Best Practices.
 
-For API we defined 7 Domains 
+For API we defined 7 Domains:
+
 - API Lifecyle
 - Data exchange
 - Data
@@ -28,7 +35,7 @@ For API we defined 7 Domains
 
 Each Domain, can contains many rules
 
-Each rules are associated to 1 of categories
+Each rules are associated to 1 of categories :
 
 - Architecture (AR)
 - Design (DE)
