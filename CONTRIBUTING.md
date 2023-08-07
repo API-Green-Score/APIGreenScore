@@ -30,7 +30,7 @@ The project team consists of:
 - [Liliana Jena] ()
 - [Christelle Ravaudet] ()
 - [Julien Bichon] ()
-- [David De Carvalho] ()
+- [David De Carvalho] (https://github.com/dedece35)
 
 
 The project team ensures that the established rules for contribution are respected.
@@ -77,7 +77,7 @@ The created `Issue` should include the tag `create`, `modify`, or `delete` depen
 
 For additions, the file should be named following the pattern: `YYxx-en.md`, where ̀`YY` means category an `xx` is the number assigned to the rules by the project team.
 
-The file should be copied from the [template](./resources/YY_xxxx_en.md).
+The file should be copied from the [template](./resources/YYxx-en.md).
 
 A `Pull Request` associated ton  `Issue` will be created and submitted to the project team for review.
 
