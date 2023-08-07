@@ -30,7 +30,7 @@ The project team consists of:
 - [Liliana Jena] ()
 - [Christelle Ravaudet] ()
 - [Julien Bichon] ()
-- [David De Carvalho] (https://github.com/dedece35)
+- [David De Carvalho](https://github.com/dedece35)
 
 
 The project team ensures that the established rules for contribution are respected.
