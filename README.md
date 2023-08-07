@@ -6,12 +6,21 @@
 
 The API Green Score is a toolkit to help API consumers, designers and owners to ask themselves questions about the digital impact of their API.
 
+Orignal document are available on ["API Thinking collectif"](https://www.collectif-api-thinking.com/ ) website.
+
+2 Documents are available : 
+
+  - [Evaluation grid](https://www.collectif-api-thinking.com/assets/deliverables/worksites/48_CAT_Sustainable_API_GreenScore_V1-2.xlsx)
+  
+  - [Guide](https://www.collectif-api-thinking.com/assets/deliverables/worksites/50_CAT_API_Sustainable_IT.pdf)
+
 This tool is based on 7 differents domains in order to create relevant and realistic metrics that stakeholders can use.
 
 The evaluation method is shared with all API Persona (API owners, API consumers, API developers)
 
 We are talking about rules for the API Green Score Grid, but first, it's based on Best Practices. 
-**Warning**: this is still a very early stage project. Any feedback or contribution will be highly appreciated. Please
+
+**/!\ Warning**: this is still a very early stage project. Any feedback or contribution will be highly appreciated. Please
 refer to the contribution section.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
