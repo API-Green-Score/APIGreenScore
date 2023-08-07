@@ -102,7 +102,7 @@ Each rules are associated to 1 of categories:
 - [AR05 : Footprint dashboard of Cloud Provider](/chapters/AR05_en.md)
 
 ### Communication
-- [US06 : API well designed and documented to increase reuse rate] (/chapters/US06_en.md)
+- [US06 : API well designed and documented to increase reuse rate](/chapters/US06_en.md)
 
 
 Thanks a lot for your contribution!
