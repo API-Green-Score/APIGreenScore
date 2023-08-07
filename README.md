@@ -63,7 +63,7 @@ Each rules are associated to 1 of categories :
 
 ### Data
 - [DE02 : Use Cache](/chapters/DE02_en.md)
-- [DE03 : Use the cache efficiently to avoid useless resources consumption] (/chapters/DE03_en.md)
+- [DE03 : Use the cache efficiently to avoid useless resources consumption](/chapters/DE03_en.md)
 - [DE06 : Allow a part cache refresh and align it on data refresh](/chapters/DE06_en.md)
 - [DE09 : Leverage OData or GraphQL when relevant](/chapters/D09_en.md)
 - [US04 : Optimize queries to limit the information returned to - what is strictly necessary](/chapters/US04_en.md)
@@ -108,34 +108,6 @@ To simplify your search, don't forget to use the available filters on the discus
   - :memo: [List of discussions for modifying rules](https://github.com/ytremblais/APIGreenScore/discussions?discussions_q=label%3Amodification)
   - :heavy_multiplication_x: [List of discussions for deleting rules](https://github.com/ytremblais/APIGreenScore/discussions?discussions_q=label%3Adeletion)
 
-
-
-## List of Best Practices:
-
-* [AR01](/chapters/AR01_en.md)
-* [AR02](/chapters/AR02_en.md)
-* [AR03](/chapters/AR03_en.md)
-
-* [US01](/chapters/US01_en.md)
-* [US02](/chapters/US02_en.md)
-* [US03](/chapters/US03_en.md)
-* [US05](/chapters/US05_en.md)
-* [US06](/chapters/US06_en.md)
-* [US07](/chapters/US07_en.md)
-
-* [DE01](/chapters/DE01_en.md)
-* [DE02](/chapters/DE02_en.md)
-* [DE03](/chapters/DE03_en.md)
-* [DE04](/chapters/DE04_en.md)
-* [DE05](/chapters/DE05_en.md)
-* [DE06](/chapters/DE06_en.md)
-* [DE07](/chapters/DE07_en.md)
-* [DE08](/chapters/DE08_en.md)
-* [DE09](/chapters/DE09_en.md)
-* [DE10](/chapters/DE10_en.md)
-* [DE11](/chapters/DE11_en.md)
-
-* [LO01](/chapters/LO01_en.md)
 
 ## Licences
 
