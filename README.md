@@ -44,47 +44,47 @@ Each rules are associated to 1 of categories :
 
 
 ### API Lifecycle
-- AR03 : Ensure Only One API fits same need
-- US02 : Decommission EOL or unused APIs
-- US03 : Limit the number of API versions
-- US05 : Choose the correct API based on use case
-- US06 : API well designed and documented to increase reuse rate
-- US07 : Monitor Error Rate
+- [AR03 : Ensure Only One API fits same need](/chapters/AR03_en.md)
+- [US02 : Decommission EOL or unused APIs](/chapters/US02_en.md)
+- [US03 : Limit the number of API versions](/chapters/US03_en.md)
+- [US05 : Choose the correct API based on use case](/chapters/US05_en.md)
+- [US06 : API well designed and documented to increase reuse rate](/chapters/US06_en.md)
+- [US07 : Monitor Error Rate](/chapters/US07_en.md)
 
 ### Data exchange
-- DE01 : Prefer smallest format for exchange (JSON instead of -XML)
-- DE02 : Use Cache
-- DE03 : Use the cache efficiently to avoid useless resources consumption
-- DE05 : Align Cache refresh strategy to data source
-- DE07 : Is system, Business or CX API?
-- DE08 : Implemented filtering mechanism to limit payload size
-- DE11 : Availability of pagination
-- US01 : Use query parameters for GET Methods
+- [DE01 : Prefer smallest format for exchange (JSON instead of -XML](/chapters/DE01_en.md)
+- [DE02 : Use Cache](/chapters/DE02_en.md)
+- [DE03 : Use the cache efficiently to avoid useless resources consumption](/chapters/DE03_en.md)
+- [DE05 : Align Cache refresh strategy to data source](/chapters/DE05_en.md)
+- [DE07 : Is system, Business or CX API?](/chapters/DE07_en.md)
+- [DE08 : Implemented filtering mechanism to limit payload size](/chapters/DE08_en.md)
+- [DE11 : Availability of pagination](/chapters/DE11_en.md)
+- [US01 : Use query parameters for GET Methods](/chapters/US01_en.md)
 
 ### Data
-- DE02 : Use Cache
-- DE03 : Use the cache efficiently to avoid useless resources consumption 
-- DE06 : Allow a part cache refresh and align it on data refresh
-- DE09 : Leverage OData or GraphQL when relevant
-- US04 : Optimize queries to limit the information returned to - what is strictly necessary
-- US05 : Choose the correct API based on use case
-- USXX : Compressed Payload
+- [DE02 : Use Cache](/chapters/DE02_en.md)
+- [DE03 : Use the cache efficiently to avoid useless resources consumption] (/chapters/DE03_en.md)
+- [DE06 : Allow a part cache refresh and align it on data refresh](/chapters/DE06_en.md)
+- [DE09 : Leverage OData or GraphQL when relevant](/chapters/D09_en.md)
+- [US04 : Optimize queries to limit the information returned to - what is strictly necessary](/chapters/US04_en.md)
+- [US05 : Choose the correct API based on use case](/chapters/US05_en.md)
+- [USXX : Compressed Payload](/chapters/USxx_en.md)
 
 ### Architecture
-- AR01 : Use Event Driven Architecture
-- AR02 : API Runtime close to the consumer
-- AR03 : Ensure Only One API fits same need
+- [AR01 : Use Event Driven Architecture](/chapters/AR01_en.md)
+- [AR02 : API Runtime close to the consumer](/chapters/AR02_en.md)
+- [AR03 : Ensure Only One API fits same need](/chapters/AR03_en.md)
 
 
 ### Tools
-- LO01 : Define log Retention Period (ops and legal)
+- [LO01 : Define log Retention Period (ops and legal)](/chapters/LO01_en.md)
 
 ### Infrastructure
-- AR04 : Use Scalable infra to avoid over-provisioning
-- AR05 : Footprint dashboard of Cloud Provider
+- [AR04 : Use Scalable infra to avoid over-provisioning](/chapters/AR04_en.md)
+- [AR05 : Footprint dashboard of Cloud Provider](/chapters/AR05_en.md)
 
 ### Communication
-- US06 : API well designed and documented to increase reuse rate
+- [US06 : API well designed and documented to increase reuse rate] (/chapters/US06_en.md)
 
 
 Thanks a lot for your contribution!
@@ -97,7 +97,7 @@ Any proposal or idea for improvement, modification, or deletion is welcome.
 
 ## How to contribute?
 
-Feel free to read the contributor's guide.[the contributor's guide](CONTRIBUTING.md).
+Feel free to read [the contributor's guide](CONTRIBUTING.md).
 
 ## Shortcut to discussions:
 
