@@ -75,9 +75,9 @@ The following scenarios may occur:
 
 The created `Issue` should include the tag `create`, `modify`, or `delete` depending on the type of proposal and should be linked to the [`Best Pratices project`](https://github.com/ytremblais/APIGreenScore/projects/1).
 
-For additions, the file should be named following the pattern: `YYxx-en.md`, where ̀`YY` means category an `xx` is the number assigned to the rules by the project team.
+For additions, the file should be named following the pattern: `YYxx_en.md`, where ̀`YY` means category an `xx` is the number assigned to the rules by the project team.
 
-The file should be copied from the [template](./resources/YYxx-en.md).
+The file should be copied from the [template](./resources/YYxx_en.md).
 
 A `Pull Request` associated ton  `Issue` will be created and submitted to the project team for review.
 
