@@ -1,16 +1,16 @@
-## Use Event Driven Architecture to avoid polling madness
+## Choose the correct API based on use case to avoid requests on multiple systems or large number of requests. Refer to the data catalog to validate the data source
 
 ### Identifiers
 
 | API Green Score |  V1  |  V2  |  V3  |
 |:-------:|:----:|:----:|:----:|
-|   AR01   | 1  |   |      |
+|   US05   | 1  |   |      |
 
 ### Categories
 
 | Lifecycle |  Resources  |  Responsible  |
 |:---------:|:----:|:----:|
-| Architecture | Network/Compute | API Producer/API Consumer |
+| Usage | Network/Compute | API Consumer |
 
 ### Indications
 
@@ -20,7 +20,7 @@
 
 ||Saving Resources                                           |
 |:----------------------------------------------------------:|
-|network / compute / storage    |
+|network / compute   |
 
 ### Description
 

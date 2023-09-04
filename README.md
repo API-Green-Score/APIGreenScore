@@ -70,7 +70,7 @@ Each rules are associated to 1 of categories:
 - [US07 : Monitor Error Rate](/chapters/US07_en.md)
 
 ### Data exchange
-- [DE01 : Prefer smallest format for exchange (JSON instead of -XML](/chapters/DE01_en.md)
+- [DE01 : Prefer smallest format for exchange (JSON instead of XML)](/chapters/DE01_en.md)
 - [DE02 : Use Cache](/chapters/DE02_en.md)
 - [DE03 : Use the cache efficiently to avoid useless resources consumption](/chapters/DE03_en.md)
 - [DE05 : Align Cache refresh strategy to data source](/chapters/DE05_en.md)
