@@ -73,7 +73,7 @@ The following scenarios may occur:
 - The proposal is definitively rejected with justification.
 - The proposal needs to be reworked before a final decision is made
 
-The created `Issue` should include the tag `create`, `modify`, or `delete` depending on the type of proposal and should be linked to the [`Best Pratices project`](https://github.com/ytremblais/APIGreenScore/projects/1).
+The created `Issue` should include the tag `create`, `modify`, or `delete` depending on the type of proposal and should be linked to the [`Best Pratices project`](https://github.com/API-Green-Score/APIGreenScore/projects/1).
 
 For additions, the file should be named following the pattern: `YYxx_en.md`, where ̀`YY` means category an `xx` is the number assigned to the rules by the project team.
 
