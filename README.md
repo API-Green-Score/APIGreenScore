@@ -1,4 +1,4 @@
-![apigreenscore_logo](https://github.com/ytremblais/APIGreenScore/assets/13643712/58127821-e390-4922-bb96-ab6bfff12c43)
+![apigreenscore_logo](resources/APIGreenScore_logo.png)
 =============================
 # API Green Score
 
