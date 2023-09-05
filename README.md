@@ -121,10 +121,10 @@ Feel free to read [the contributor's guide](CONTRIBUTING.md).
 
 To simplify your search, don't forget to use the available filters on the discussions page.
 
-  - :infinity: [List of all discussions](https://github.com/ytremblais/APIGreenScore/discussions)
-  - :heavy_plus_sign: [List of discussions for adding rules](https://github.com/ytremblais/APIGreenScore/discussions?discussions_q=label%3Aaddition)
-  - :memo: [List of discussions for modifying rules](https://github.com/ytremblais/APIGreenScore/discussions?discussions_q=label%3Amodification)
-  - :heavy_multiplication_x: [List of discussions for deleting rules](https://github.com/ytremblais/APIGreenScore/discussions?discussions_q=label%3Adeletion)
+  - :infinity: [List of all discussions](https://github.com/API-Green-Score/APIGreenScore/discussions)
+  - :heavy_plus_sign: [List of discussions for adding rules](https://github.com/API-Green-Score/APIGreenScore/discussions?discussions_q=label%3Aaddition)
+  - :memo: [List of discussions for modifying rules](https://github.com/API-Green-Score/APIGreenScore/discussions?discussions_q=label%3Amodification)
+  - :heavy_multiplication_x: [List of discussions for deleting rules](https://github.com/API-Green-Score/APIGreenScore/discussions?discussions_q=label%3Adeletion)
 
 
 ## Licences
