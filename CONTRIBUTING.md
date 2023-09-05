@@ -47,7 +47,7 @@ A member of the project team can submit a proposal to the contributors but canno
 
 ## Proposal
 
-Every proposal for adding, major modification, or deletion of best practices must go through [a discussion](https://github.com/ytremblais/APIGreenScore/discussions/categories/bonnes-pratiques).
+Every proposal for adding, major modification, or deletion of best practices must go through [a discussion](https://github.com/API-Green-Score/APIGreenScore/discussions/categories/bonnes-pratiques).
 
 The title of the discussion should be explicit and specify whether it is an addition, a major modification, or a deletion.
 
