@@ -1,4 +1,4 @@
-![apigreenscore_logo](resources/APIGreenScore_logo.png)
+![apigreenscore_logo](resources/apigreenscore_logo_byCAT.png)
 =============================
 # API Green Score
 
