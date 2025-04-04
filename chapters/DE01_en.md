@@ -31,7 +31,35 @@ Indeed, there are exchange formats that are heavier than others. For example, JS
 In the interest of sustainability, we recommend to use a lighter exchange format to reduce the bandwidth consumed for the requests, the compute and storage resources consumption used to process and store the payloads.
 
 ### Example
-TBD 
+For instance, this HTTP request `GET https://openlibrary.org/search.json?q=harry potter` returns a JSON value. We can convert it to XML and compare the sizes.
+
+```java
+String responseBody = new RestTemplate().getForEntity(url, String.class).getBody();
+
+ObjectMapper objectMapper = new ObjectMapper();
+JsonNode jsonNode = objectMapper.readTree(responseBody);
+
+String xmlValue = new XmlMapper().writeValueAsString(jsonNode);
+xmlPayloadSize = xmlValue.getBytes().length;
+
+// since the XML serialized value does not contain indentation,
+// we also re-serialize the JSON value without indentation
+// so it is a fair comparison.
+String jsonValue = objectMapper.writeValueAsString(jsonNode);
+jsonPayloadSize = jsonValue.getBytes().length;		
+```
+
+Here is the result:
+```json
+{
+    "url": "https://openlibrary.org/search.json?q=harry potter",
+    "jsonPayloadSize": 40702,
+    "xmlPayloadSize": 58332
+}
+```
+By using XML, there is 18kB increase (43% !).
+
+On an endpoint requested 1 million times per day, it represents 18GB that are "useless".
 
 ### Validation principle
 
